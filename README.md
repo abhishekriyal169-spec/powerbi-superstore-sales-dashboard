@@ -56,12 +56,13 @@ This project is a Power BI dashboard built using a synthetic Super Store sales d
 
 \## Dashboard Preview
 
-!\[Dashboard Screenshot](powerbi\\dashboard\_overview.png)
+!\[Dashboard Screenshot](powerbi\\superstore_sales_dashboard.png)
 
 
 
 \## Notes
 
 This project is created for learning and portfolio purposes.
+
 
 
