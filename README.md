@@ -2,13 +2,13 @@
 
 
 
-\## 📊 Project Overview
+\## Project Overview
 
 This project is a Power BI dashboard built using a synthetic Super Store sales dataset. It provides insights into regional sales, profit margins, product performance, and monthly trends.
 
 
 
-\## 🧾 Dataset
+\## Dataset
 
 \- Source: Publicly available Super Store Excel dataset
 
@@ -18,7 +18,7 @@ This project is a Power BI dashboard built using a synthetic Super Store sales d
 
 
 
-\## 🔍 Key Insights
+\## Key Insights
 
 \- Regional sales distribution across the US
 
@@ -32,7 +32,7 @@ This project is a Power BI dashboard built using a synthetic Super Store sales d
 
 
 
-\## 📈 Dashboard Features
+\## Dashboard Features
 
 \- Interactive regional map (US)
 
@@ -46,7 +46,7 @@ This project is a Power BI dashboard built using a synthetic Super Store sales d
 
 
 
-\## 🛠 Tools Used
+\## Tools Used
 
 \- Power BI
 
@@ -54,13 +54,14 @@ This project is a Power BI dashboard built using a synthetic Super Store sales d
 
 
 
-\## 📷 Dashboard Preview
+\## Dashboard Preview
 
 !\[Dashboard Screenshot](powerbi\\dashboard\_overview.png)
 
 
 
-\## 📌 Notes
+\## Notes
 
 This project is created for learning and portfolio purposes.
+
 
